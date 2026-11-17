@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-- 🎓 **Computer Science student** focused on **Frontend Development**
-- ⚛️ Currently specializing in **React.js**
-- 🌐 Strengthening my fundamentals in **JavaScript, HTML, CSS, and modern frontend technologies**
+- 🎓 **Computer Science student** focused on **Full-Stack Development**
+- ⚛️ Currently specializing in **Next.js**
+- 🌐 Strengthening my fundamentals in **modern frontend & Backend technologies**
 - 🧩 Working toward becoming a **well-rounded developer** through continuous learning and hands-on projects
 
 ## 🌐 Socials:
